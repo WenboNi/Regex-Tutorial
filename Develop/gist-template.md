@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/WenboNi/fc446506f44b55ffffb06fe0859e7bbf/raw/1bbfb94faabafd8b5842682589eeaba2193afab7/Regex%2520for%2520Email%2520Validation
